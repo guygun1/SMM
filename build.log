@@ -1,0 +1,21 @@
+Building SubnauticaMP... 
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  MPCore -> C:\Users\guyde\Documents\IdeaProjects\C#\Mods\unity\Subnautica\multiplayer\MPCore\bin\Debug\netstandard2.0\MPCore.dll
+C:\Users\guyde\Documents\IdeaProjects\C#\Mods\unity\Subnautica\multiplayer\SubnauticaMP\AutoCompat.cs(49,27): warning CS0649: Field 'AutoCompat.Watched.Last' is never assigned to, and will always have its default value null [C:\Users\guyde\Documents\IdeaProjects\C#\Mods\unity\Subnautica\multiplayer\SubnauticaMP\SubnauticaMP.csproj]
+C:\Users\guyde\Documents\IdeaProjects\C#\Mods\unity\Subnautica\multiplayer\SubnauticaMP\Features\CyclopsSync.cs(45,21): warning CS0414: The field 'CyclopsSync._force' is assigned but its value is never used [C:\Users\guyde\Documents\IdeaProjects\C#\Mods\unity\Subnautica\multiplayer\SubnauticaMP\SubnauticaMP.csproj]
+  SubnauticaMP -> C:\Users\guyde\Documents\IdeaProjects\C#\Mods\unity\Subnautica\multiplayer\SubnauticaMP\bin\Debug\net472\SubnauticaMP.dll
+
+Build succeeded.
+
+C:\Users\guyde\Documents\IdeaProjects\C#\Mods\unity\Subnautica\multiplayer\SubnauticaMP\AutoCompat.cs(49,27): warning CS0649: Field 'AutoCompat.Watched.Last' is never assigned to, and will always have its default value null [C:\Users\guyde\Documents\IdeaProjects\C#\Mods\unity\Subnautica\multiplayer\SubnauticaMP\SubnauticaMP.csproj]
+C:\Users\guyde\Documents\IdeaProjects\C#\Mods\unity\Subnautica\multiplayer\SubnauticaMP\Features\CyclopsSync.cs(45,21): warning CS0414: The field 'CyclopsSync._force' is assigned but its value is never used [C:\Users\guyde\Documents\IdeaProjects\C#\Mods\unity\Subnautica\multiplayer\SubnauticaMP\SubnauticaMP.csproj]
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.54
+BUILD EXIT CODE 0 
+        1 file(s) copied.
+        1 file(s) copied.
+COPY EXIT CODE 0 
+DONE 
